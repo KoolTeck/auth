@@ -1,0 +1,11 @@
+{
+    "require": [
+        "dotenv/config"
+    ],
+    "spec": "tests/**/*.spec.js",
+    "timeout": 5000,
+    "recursive": true,
+    "watch-files": [
+        "tests/**/*.spec.js"
+    ]
+}
